@@ -23,7 +23,7 @@ chmod +x /usr/local/bin/docker-compose
 ```bash
 cd opt
 
-$ git clone https://github.com/G4briel0ss/glpi.git
+git clone https://github.com/G4briel0ss/glpi.git
 
 cd glpi
 
@@ -39,3 +39,4 @@ docker compose up -d
 
 ### Acessando o GlPI
 
+https://server-ip
