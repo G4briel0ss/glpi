@@ -27,7 +27,8 @@ git clone https://github.com/G4briel0ss/glpi.git
 
 cd glpi
 
-mkdir -p ./var/www/html/glpi \ ./var/lib/mysql
+mkdir -p ./var/www/html/glpi
+mkdir -p  ./var/lib/mysql
 
 chown 472:472 ./var/lib/mysql \ ./var/lib/mysql 
 ```
@@ -76,5 +77,18 @@ selecione o glpidb
 
 > [!IMPORTANT]
 > *Por padrão devemos alterarmos as senhas padrões*.
+
+## Instalação do Fusion Inventory 10.0.6+1.1
+
+### Baixandos as pastas do plugin
+
+```bash
+cd /opt/GLPI/var/www/html/glpi/plugins/
+
+curl -O https://github.com/fusioninventory/fusioninventory-for-glpi/releases/download/glpi10.0.6%2B1.1/fusioninventory-10.0.6+1.1.zip
+
+unzip fusioninventory-10.0.6+1.1.zip
+
+```
 
 
