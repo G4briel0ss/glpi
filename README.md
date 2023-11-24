@@ -67,10 +67,14 @@ selecione o glpidb
 
 ### Os usuários e senhas padrões são:
 
-**glpi/glpi** para a conta do usuário administrador;
-**tech/tech** para a conta do usuário técnico;
-**normal/normal** para a conta do usuário normal;
-**post-only/postonly** para a conta do usuário postonly;
+| User/pass | Description |
+| --- | --- |
+| glpi/glpi | para a conta do usuário administrador |
+| tech/tech | para a conta do usuário técnico |
+| normal/normal | para a conta do usuário normal |
+| post-only/postonly | para a conta do usuário postonly |
 
-*Por padrão devemos alterarmos as senhas padrões*
+> [!IMPORTANT]
+> *Por padrão devemos alterarmos as senhas padrões*.
+
 
