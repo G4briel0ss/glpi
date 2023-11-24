@@ -40,3 +40,37 @@ docker compose up -d
 ### Acessando o GlPI
 
 https://server-ip
+
+### Finalizando a instalação 
+
+> selecionar o idioma
+
+> Clique em Install
+
+### Conectando com o banco de dados
+
+SQL server
+> MySql
+
+SQL User
+> glpi_user
+
+SQL password
+> glpi
+
+### Escolha do database
+
+selecione o glpidb
+
+[X] glpidb
+[] Cria um novo banco de dados 
+
+### Os usuários e senhas padrões são:
+
+**glpi/glpi** para a conta do usuário administrador
+**tech/tech** para a conta do usuário técnico
+**normal/normal** para a conta do usuário normal
+**post-only/postonly** para a conta do usuário postonly
+
+*Por padrão devemos alterarmos as senhas padrões*
+
