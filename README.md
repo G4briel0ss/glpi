@@ -62,8 +62,8 @@ SQL password
 
 selecione o glpidb
 
-[X] glpidb
-[] Cria um novo banco de dados 
+-[x] glpidb
+-[ ] Cria um novo banco de dados 
 
 ### Os usuários e senhas padrões são:
 
