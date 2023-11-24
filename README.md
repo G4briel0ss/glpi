@@ -62,15 +62,15 @@ SQL password
 
 selecione o glpidb
 
--[x] glpidb
--[ ] Cria um novo banco de dados 
+- [x] glpidb
+- [ ] Cria um novo banco de dados 
 
 ### Os usuários e senhas padrões são:
 
-**glpi/glpi** para a conta do usuário administrador
-**tech/tech** para a conta do usuário técnico
-**normal/normal** para a conta do usuário normal
-**post-only/postonly** para a conta do usuário postonly
+**glpi/glpi** para a conta do usuário administrador;
+**tech/tech** para a conta do usuário técnico;
+**normal/normal** para a conta do usuário normal;
+**post-only/postonly** para a conta do usuário postonly;
 
 *Por padrão devemos alterarmos as senhas padrões*
 
